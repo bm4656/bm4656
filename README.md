@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
     
   <br>
-    <img src="https://img.shields.io/badge/node.js-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/node.js-4479A1?style=flat-square&logo=node.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
 </p>
 
