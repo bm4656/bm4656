@@ -1,4 +1,4 @@
-## ✨ Hi, there? I'm a Enthusiastic Developer🔥
+## ✨ Hi, there? I am a growing developer! 🌱
 <a><img src="https://img.shields.io/badge/React.js-00CEF1?style=flat-square&logo=React&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
