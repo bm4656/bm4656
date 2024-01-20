@@ -2,9 +2,10 @@
 <a><img src="https://img.shields.io/badge/React.js-00CEF1?style=flat-square&logo=React&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/next.js-4479A1?style=flat-square&logo=node.js&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a> 
-<a><img src="https://img.shields.io/badge/next.js-4479A1?style=flat-square&logo=node.js&logoColor=white"/></a>
+
 <a><img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
 
 ```JS
