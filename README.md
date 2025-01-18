@@ -10,16 +10,14 @@
 ```JS
 const me = {
   name: "kim, Bomin",
-  position: "frontend developer",
+  position: "backend developer",
   tech_stack: {
-      "React",
+      "NestJS",
       "JavaScript",
       "TypeScript",
-      "Next.js",
-      "HTML5",
-      "CSS3"
+      "MySql"
   },
-  address: "suwon, 🇰🇷",
+  address: "seoul, 🇰🇷",
   email: "newjin46@gmail.com",
 }
 ```
